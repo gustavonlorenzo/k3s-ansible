@@ -15,7 +15,7 @@ apiserver_endpoint: "192.168.30.222"
 
 # k3s_token is required  masters can talk together securely
 # this token should be alpha numeric only
-k3s_token: "some-SUPER-DEDEUPER-secret-password"
+k3s_token: "asd7s8ad7a89d7as8d9a7sd89as7das89d797sa9d"
 
 # The IP on which the node is reachable in the cluster.
 # Here, a sensible default is provided, you can still override
